@@ -8,6 +8,7 @@ This project is a simple React application that enables user to create a account
 
 - Create a new account using sign up.
 - Press the forgot password button to get a link to change your password.
+- Your link will be sent to your email (please check spam folder).
 - Change your password in the web page provided in that link.
 - Your password will be updated in db.
 
